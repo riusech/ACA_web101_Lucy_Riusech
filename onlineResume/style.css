@@ -1,0 +1,53 @@
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+.top {
+    width: 1000px;
+    height: 100px;
+    background-color: black;
+    font: 25px/5px Arial, sans-serif;
+    padding: 10px;
+    color: white;
+    margin: 0;
+}
+
+.head {
+    width: 850px;
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+
+
+/* Right Sidebar
+-----------------------------------------------------------------------------*/
+
+.right-sidebar {
+    float: right;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background: #d3d1d1;
+    overflow-x: hidden;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+
+.footer {
+    height: 100px;
+    background: #bff08e;
+}
